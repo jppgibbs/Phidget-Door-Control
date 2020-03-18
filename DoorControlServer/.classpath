@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="libraries/servlet-api.jar"/>
+	<classpathentry kind="lib" path="libraries/gson-2.8.5.jar"/>
+	<classpathentry kind="lib" path="/DoorControlClient/libraries/servlet-api.jar"/>
+	<classpathentry kind="lib" path="libraries/annotations-api.jar"/>
+	<classpathentry kind="lib" path="libraries/catalina-ant.jar"/>
+	<classpathentry kind="lib" path="libraries/catalina-ha.jar"/>
+	<classpathentry kind="lib" path="libraries/catalina-storeconfig.jar"/>
+	<classpathentry kind="lib" path="libraries/catalina-tribes.jar"/>
+	<classpathentry kind="lib" path="libraries/catalina.jar"/>
+	<classpathentry kind="lib" path="libraries/ecj-4.12.jar"/>
+	<classpathentry kind="lib" path="libraries/el-api.jar"/>
+	<classpathentry kind="lib" path="libraries/jasper-el.jar"/>
+	<classpathentry kind="lib" path="libraries/jasper.jar"/>
+	<classpathentry kind="lib" path="libraries/jaspic-api.jar"/>
+	<classpathentry kind="lib" path="libraries/jsp-api.jar"/>
+	<classpathentry kind="lib" path="libraries/org.eclipse.paho.client.mqttv3-1.1.0.jar"/>
+	<classpathentry kind="lib" path="libraries/phidget22.jar"/>
+	<classpathentry kind="lib" path="libraries/tomcat-api.jar"/>
+	<classpathentry kind="lib" path="libraries/tomcat-coyote.jar"/>
+	<classpathentry kind="lib" path="libraries/tomcat-dbcp.jar"/>
+	<classpathentry kind="lib" path="libraries/tomcat-i18n-cs.jar"/>
+	<classpathentry kind="lib" path="libraries/tomcat-i18n-de.jar"/>
+	<classpathentry kind="lib" path="libraries/tomcat-i18n-es.jar"/>
+	<classpathentry kind="lib" path="libraries/tomcat-i18n-fr.jar"/>
+	<classpathentry kind="lib" path="libraries/tomcat-i18n-ja.jar"/>
+	<classpathentry kind="lib" path="libraries/tomcat-i18n-ko.jar"/>
+	<classpathentry kind="lib" path="libraries/tomcat-i18n-pt-BR.jar"/>
+	<classpathentry kind="lib" path="libraries/tomcat-i18n-ru.jar"/>
+	<classpathentry kind="lib" path="libraries/tomcat-i18n-zh-CN.jar"/>
+	<classpathentry kind="lib" path="libraries/tomcat-jdbc.jar"/>
+	<classpathentry kind="lib" path="libraries/tomcat-jni.jar"/>
+	<classpathentry kind="lib" path="libraries/tomcat-util-scan.jar"/>
+	<classpathentry kind="lib" path="libraries/tomcat-util.jar"/>
+	<classpathentry kind="lib" path="libraries/tomcat-websocket.jar"/>
+	<classpathentry kind="lib" path="libraries/websocket-api.jar"/>
+	<classpathentry kind="lib" path="F:/User Files/Documents/! Uni/MobileAppsDev-A1/DoorControlServer/libraries/gson-2.8.5.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
